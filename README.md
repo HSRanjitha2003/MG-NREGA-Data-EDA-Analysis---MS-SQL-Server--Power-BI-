@@ -1,5 +1,6 @@
 
-<img width="780" height="442" alt="Screenshot 2026-03-01 231718" src="https://github.com/user-attachments/assets/d5984459-62c7-476d-8f55-13f46f401763" />
+
+<img width="964" height="538" alt="Screenshot 2026-03-02 090839" src="https://github.com/user-attachments/assets/284e1a3f-2fc2-42f8-b7e0-26d7a16dc2c3" />
 
 # NREGA ( National Rural Employment Guarantee Act) Analysis || Power-BI, MS SQL Server
 
